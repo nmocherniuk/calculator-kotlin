@@ -44,18 +44,15 @@
         style="@style/buttonRow">
 
         <Button
-            style="@style/buttonNumber"
-            android:textColor="@color/orange"
+            style="@style/buttonAction"
             android:onClick="allClearAction"
             android:text="AC"/>
         <Button
-            style="@style/buttonNumber"
-            android:textColor="@color/orange"
+            style="@style/buttonAction"
             android:onClick="backSpaceAction"
             android:text="⌫"/>
         <Button
-            style="@style/buttonNumber"
-            android:textColor="@color/orange"
+            style="@style/buttonAction"
             android:onClick="numberAction"
             android:text="." />
         <Button
